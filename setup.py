@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='def',
+    name='directional_feature',
     version='0.1.0',    
     description='A Algorithm for image feature extraction',
     url='https://github.com/ariaji25/def',
