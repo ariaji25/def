@@ -7,7 +7,7 @@ setup(
     url='https://github.com/ariaji25/def',
     author='Ari Purnama Aji',
     author_email='ari.purnama838@gmail.com',
-    packages=['def'],
+    packages=['directional_feature'],
     install_requires=['opencv-python',
                       'numpy',                     
                       ],
